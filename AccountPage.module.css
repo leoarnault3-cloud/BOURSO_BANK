@@ -1,0 +1,19 @@
+.wrapper {
+  margin: 2rem auto;
+  max-width: 540px;
+  background: #fff;
+  border-radius: 17px;
+  box-shadow: 0 2px 14px rgba(44,44,44,0.09);
+  padding: 2.5rem 2rem 2rem 2rem;
+}
+
+.info {
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
+
+.amount {
+  color: #e6bf46;
+  font-weight: 700;
+  font-size: 1.35rem;
+}

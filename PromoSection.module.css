@@ -1,0 +1,44 @@
+.promo {
+  background: linear-gradient(120deg, #161616 60%, #444 100%);
+  color: #fff;
+  padding: 4rem 0 3rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 340px;
+  border-radius: 0 0 32px 32px;
+  box-shadow: 0 4px 32px rgba(0,0,0,0.16);
+}
+
+.content {
+  max-width: 700px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.8rem;
+  margin-bottom: 1.2rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+p {
+  font-size: 1.25rem;
+  margin-bottom: 1.6rem;
+}
+
+.cta {
+  background: #e6bf46;
+  color: #161616;
+  border: none;
+  border-radius: 8px;
+  padding: 0.8rem 2rem;
+  font-weight: bold;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.cta:hover {
+  background: #ffd700;
+}
